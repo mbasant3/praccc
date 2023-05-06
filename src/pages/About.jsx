@@ -11,6 +11,7 @@ function About() {
       <h1 className="About">About-Me</h1>
     </div>
       <div className="intro">
+      {/* <span>Pradeepkumar Prajapati</span> */}
         <div className="i-left">
           <div className="a-name">
             {/* <span>Hey, I AM</span>
